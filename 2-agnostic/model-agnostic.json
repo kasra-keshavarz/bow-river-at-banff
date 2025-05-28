@@ -36,11 +36,11 @@
     }],
 
     "gis": [{
-      "dataset": "landsat",
-      "dataset-dir": "/work/comphyd_lab/data/geospatial-data/Landsat",
-      "variable": "land-cover",
-      "start-date": "2015",
-      "end-date": "2015",
+      "dataset": "modis",
+      "dataset-dir": "/work/comphyd_lab/data/geospatial-data/MODIS",
+      "variable": "MCD12Q1.061",
+      "start-date": "2022-01-01",
+      "end-date": "2022-01-01",
       "output-dir": "/home/kasra.keshavarz1/github-repos/bow-river-at-banff/bb-model/attributes/landcover",
       "lat-lims": "",
       "lon-lims": "",
