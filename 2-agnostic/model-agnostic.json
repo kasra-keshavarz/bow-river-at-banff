@@ -47,8 +47,8 @@
       "shape-file": "/home/kasra.keshavarz1/github-repos/bow-river-at-banff/1-geofabric/bow-at-banff-geofabric/bb_subbasins.shp",
       "print-geotiff": "true",
       "stat": [
-        "frac",
-        "coords"
+        "majority",
+        "frac"
       ],
       "quantile": "",
       "prefix": "bb_model_",
