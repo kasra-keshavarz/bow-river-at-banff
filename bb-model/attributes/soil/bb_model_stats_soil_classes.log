@@ -1,0 +1,288 @@
+[1] "/home/kasra.keshavarz1/.temp_data_jobid/cache-35140788/r-packages"
+The following package(s) will be updated:
+
+# CRAN -----------------------------------------------------------------------
+- class           [* -> 7.3-23]
+- classInt        [* -> 0.4-11]
+- cli             [* -> 3.6.3]
+- DBI             [* -> 1.2.3]
+- dplyr           [* -> 1.1.4]
+- e1071           [* -> 1.7-16]
+- exactextractr   [* -> 0.10.0]
+- fansi           [* -> 1.0.6]
+- generics        [* -> 0.1.3]
+- glue            [* -> 1.8.0]
+- KernSmooth      [* -> 2.23-26]
+- lattice         [* -> 0.22-6]
+- lifecycle       [* -> 1.0.4]
+- magrittr        [* -> 2.0.3]
+- MASS            [* -> 7.3-64]
+- pillar          [* -> 1.10.1]
+- pkgconfig       [* -> 2.0.3]
+- proxy           [* -> 0.4-27]
+- purrr           [* -> 1.0.4]
+- R6              [* -> 2.5.1]
+- raster          [* -> 3.6-31]
+- Rcpp            [* -> 1.0.14]
+- rlang           [* -> 1.1.5]
+- s2              [* -> 1.1.7]
+- sf              [* -> 1.0-19]
+- sp              [* -> 2.2-0]
+- terra           [* -> 1.8-21]
+- tibble          [* -> 3.2.1]
+- tidyselect      [* -> 1.2.1]
+- units           [* -> 0.8-5]
+- utf8            [* -> 1.2.4]
+- vctrs           [* -> 0.6.5]
+- withr           [* -> 3.0.2]
+- wk              [* -> 0.9.4]
+
+[1] "/home/kasra.keshavarz1/.temp_data_jobid/cache-35140824/r-packages"
+[1] "/home/kasra.keshavarz1/.temp_data_jobid/cache-35140842/r-packages"
+The following package(s) will be updated:
+
+# CRAN -----------------------------------------------------------------------
+- class           [* -> 7.3-23]
+- classInt        [* -> 0.4-11]
+- cli             [* -> 3.6.3]
+- DBI             [* -> 1.2.3]
+- dplyr           [* -> 1.1.4]
+- e1071           [* -> 1.7-16]
+- exactextractr   [* -> 0.10.0]
+- fansi           [* -> 1.0.6]
+- generics        [* -> 0.1.3]
+- glue            [* -> 1.8.0]
+- KernSmooth      [* -> 2.23-26]
+- lattice         [* -> 0.22-6]
+- lifecycle       [* -> 1.0.4]
+- magrittr        [* -> 2.0.3]
+- MASS            [* -> 7.3-64]
+- pillar          [* -> 1.10.1]
+- pkgconfig       [* -> 2.0.3]
+- proxy           [* -> 0.4-27]
+- purrr           [* -> 1.0.4]
+- R6              [* -> 2.5.1]
+- raster          [* -> 3.6-31]
+- Rcpp            [* -> 1.0.14]
+- rlang           [* -> 1.1.5]
+- s2              [* -> 1.1.7]
+- sf              [* -> 1.0-19]
+- sp              [* -> 2.2-0]
+- terra           [* -> 1.8-21]
+- tibble          [* -> 3.2.1]
+- tidyselect      [* -> 1.2.1]
+- units           [* -> 0.8-5]
+- utf8            [* -> 1.2.4]
+- vctrs           [* -> 0.6.5]
+- withr           [* -> 3.0.2]
+- wk              [* -> 0.9.4]
+
+# Installing packages --------------------------------------------------------
+- Installing DBI ...                            OK [copied from cache in 5.4s]
+- Installing KernSmooth ...                     OK [copied from cache in 6.5s]
+- Installing MASS ...                           OK [copied from cache in 6.6s]
+- Installing R6 ...                             OK [copied from cache in 2.8s]
+- Installing Rcpp ...                           OK [copied from cache in 1.4m]
+- Installing class ...                          OK [copied from cache in 2.0s]
+- Installing proxy ...                          OK [copied from cache in 2.5s]
+- Installing e1071 ...                          OK [copied from cache in 2.5s]
+- Installing classInt ...                       OK [copied from cache in 3.3s]
+- Installing cli ...                            OK [copied from cache in 6.7s]
+- Installing generics ...                       OK [copied from cache in 5.2s]
+- Installing glue ...                           OK [copied from cache in 0.63s]
+- Installing rlang ...                          OK [copied from cache in 4.5s]
+- Installing lifecycle ...                      OK [copied from cache in 1.8s]
+- Installing magrittr ...                       OK [copied from cache in 7.2s]
+- Installing utf8 ...                           OK [copied from cache in 2.7s]
+- Installing vctrs ...                          OK [copied from cache in 10s]
+- Installing pillar ...                         OK [copied from cache in 3.6s]
+- Installing fansi ...                          OK [copied from cache in 2.0s]
+- Installing pkgconfig ...                      OK [copied from cache in 1.9s]
+- Installing tibble ...                         OK [copied from cache in 7.7s]
+- Installing withr ...                          OK [copied from cache in 3.3s]
+- Installing tidyselect ...                     OK [copied from cache in 5.5s]
+- Installing dplyr ...                          OK [copied from cache in 5.5s]
+- Installing terra ...                          OK [copied from cache in 37s]
+- Installing lattice ...                        OK [copied from cache in 6.8s]
+- Installing sp ...                             OK [copied from cache in 6.4s]
+- Installing raster ...                         OK [copied from cache in 11s]
+- Installing wk ...                             OK [copied from cache in 5.2s]
+- Installing s2 ...                             OK [copied from cache in 6.3s]
+- Installing units ...                          OK [copied from cache in 3.6s]
+- Installing sf ...                             OK [copied from cache in 10s]
+- Installing exactextractr ...                  OK [copied from cache in 8.5s]
+- Installing purrr ...                          OK [copied from cache in 4.5s]
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+code for methods in class “Rcpp_SpatCategories” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatCategories” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatDataFrame” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatDataFrame” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatFactor” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatFactor” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatMessages” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatMessages” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatOptions” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatOptions” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRaster” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRaster” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterStack” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterStack” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatSRS” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatSRS” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatTime_v” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatTime_v” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVector” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVector” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorProxy” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorProxy” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPoly” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPoly” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolyPart” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolyPart” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolygons” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolygons” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+[1] "Transforming EPSG to 4326"
+[1] "Including NA values"
+  |                                                                              |                                                                      |   0%  |                                                                              |=                                                                     |   2%  |                                                                              |===                                                                   |   4%  |                                                                              |====                                                                  |   6%  |                                                                              |=====                                                                 |   8%  |                                                                              |=======                                                               |  10%  |                                                                              |========                                                              |  12%  |                                                                              |==========                                                            |  14%  |                                                                              |===========                                                           |  16%  |                                                                              |============                                                          |  18%  |                                                                              |==============                                                        |  20%  |                                                                              |===============                                                       |  22%  |                                                                              |================                                                      |  24%  |                                                                              |==================                                                    |  25%  |                                                                              |===================                                                   |  27%  |                                                                              |=====================                                                 |  29%  |                                                                              |======================                                                |  31%  |                                                                              |=======================                                               |  33%  |                                                                              |=========================                                             |  35%  |                                                                              |==========================                                            |  37%  |                                                                              |===========================                                           |  39%  |                                                                              |=============================                                         |  41%  |                                                                              |==============================                                        |  43%  |                                                                              |================================                                      |  45%  |                                                                              |=================================                                     |  47%  |                                                                              |==================================                                    |  49%  |                                                                              |====================================                                  |  51%  |                                                                              |=====================================                                 |  53%  |                                                                              |======================================                                |  55%  |                                                                              |========================================                              |  57%  |                                                                              |=========================================                             |  59%  |                                                                              |===========================================                           |  61%  |                                                                              |============================================                          |  63%  |                                                                              |=============================================                         |  65%  |                                                                              |===============================================                       |  67%  |                                                                              |================================================                      |  69%  |                                                                              |=================================================                     |  71%  |                                                                              |===================================================                   |  73%  |                                                                              |====================================================                  |  75%  |                                                                              |======================================================                |  76%  |                                                                              |=======================================================               |  78%  |                                                                              |========================================================              |  80%  |                                                                              |==========================================================            |  82%  |                                                                              |===========================================================           |  84%  |                                                                              |============================================================          |  86%  |                                                                              |==============================================================        |  88%  |                                                                              |===============================================================       |  90%  |                                                                              |=================================================================     |  92%  |                                                                              |==================================================================    |  94%  |                                                                              |===================================================================   |  96%  |                                                                              |===================================================================== |  98%  |                                                                              |======================================================================| 100%
+[1] "/home/kasra.keshavarz1/.temp_data_jobid/cache-35141207/r-packages"
+The following package(s) will be updated:
+
+# CRAN -----------------------------------------------------------------------
+- class           [* -> 7.3-23]
+- classInt        [* -> 0.4-11]
+- cli             [* -> 3.6.3]
+- DBI             [* -> 1.2.3]
+- dplyr           [* -> 1.1.4]
+- e1071           [* -> 1.7-16]
+- exactextractr   [* -> 0.10.0]
+- fansi           [* -> 1.0.6]
+- generics        [* -> 0.1.3]
+- glue            [* -> 1.8.0]
+- KernSmooth      [* -> 2.23-26]
+- lattice         [* -> 0.22-6]
+- lifecycle       [* -> 1.0.4]
+- magrittr        [* -> 2.0.3]
+- MASS            [* -> 7.3-64]
+- pillar          [* -> 1.10.1]
+- pkgconfig       [* -> 2.0.3]
+- proxy           [* -> 0.4-27]
+- purrr           [* -> 1.0.4]
+- R6              [* -> 2.5.1]
+- raster          [* -> 3.6-31]
+- Rcpp            [* -> 1.0.14]
+- rlang           [* -> 1.1.5]
+- s2              [* -> 1.1.7]
+- sf              [* -> 1.0-19]
+- sp              [* -> 2.2-0]
+- terra           [* -> 1.8-21]
+- tibble          [* -> 3.2.1]
+- tidyselect      [* -> 1.2.1]
+- units           [* -> 0.8-5]
+- utf8            [* -> 1.2.4]
+- vctrs           [* -> 0.6.5]
+- withr           [* -> 3.0.2]
+- wk              [* -> 0.9.4]
+
+# Installing packages --------------------------------------------------------
+- Installing DBI ...                            OK [copied from cache in 0.19s]
+- Installing KernSmooth ...                     OK [copied from cache in 0.23s]
+- Installing MASS ...                           OK [copied from cache in 0.35s]
+- Installing R6 ...                             OK [copied from cache in 0.15s]
+- Installing Rcpp ...                           OK [copied from cache in 8.8s]
+- Installing class ...                          OK [copied from cache in 0.17s]
+- Installing proxy ...                          OK [copied from cache in 0.18s]
+- Installing e1071 ...                          OK [copied from cache in 0.14s]
+- Installing classInt ...                       OK [copied from cache in 1.2s]
+- Installing cli ...                            OK [copied from cache in 0.3s]
+- Installing generics ...                       OK [copied from cache in 5.8s]
+- Installing glue ...                           OK [copied from cache in 0.32s]
+- Installing rlang ...                          OK [copied from cache in 0.25s]
+- Installing lifecycle ...                      OK [copied from cache in 0.29s]
+- Installing magrittr ...                       OK [copied from cache in 0.32s]
+- Installing utf8 ...                           OK [copied from cache in 0.12s]
+- Installing vctrs ...                          OK [copied from cache in 0.95s]
+- Installing pillar ...                         OK [copied from cache in 0.15s]
+- Installing fansi ...                          OK [copied from cache in 0.14s]
+- Installing pkgconfig ...                      OK [copied from cache in 0.12s]
+- Installing tibble ...                         OK [copied from cache in 0.18s]
+- Installing withr ...                          OK [copied from cache in 0.14s]
+- Installing tidyselect ...                     OK [copied from cache in 0.12s]
+- Installing dplyr ...                          OK [copied from cache in 0.28s]
+- Installing terra ...                          OK [copied from cache in 4.8s]
+- Installing lattice ...                        OK [copied from cache in 0.53s]
+- Installing sp ...                             OK [copied from cache in 0.63s]
+- Installing raster ...                         OK [copied from cache in 0.37s]
+- Installing wk ...                             OK [copied from cache in 0.41s]
+- Installing s2 ...                             OK [copied from cache in 2.7s]
+- Installing units ...                          OK [copied from cache in 0.32s]
+- Installing sf ...                             OK [copied from cache in 7.4s]
+- Installing exactextractr ...                  OK [copied from cache in 0.23s]
+- Installing purrr ...                          OK [copied from cache in 1.8s]
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+code for methods in class “Rcpp_SpatCategories” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatCategories” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatDataFrame” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatDataFrame” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatFactor” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatFactor” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatMessages” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatMessages” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatOptions” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatOptions” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRaster” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRaster” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterStack” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterStack” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatSRS” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatSRS” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatTime_v” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatTime_v” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVector” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVector” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorProxy” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorProxy” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPoly” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPoly” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolyPart” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolyPart” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolygons” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolygons” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+[1] "Transforming EPSG to 4326"
+[1] "Including NA values"
+  |                                                                              |                                                                      |   0%  |                                                                              |=                                                                     |   2%  |                                                                              |===                                                                   |   4%  |                                                                              |====                                                                  |   6%  |                                                                              |=====                                                                 |   8%  |                                                                              |=======                                                               |  10%  |                                                                              |========                                                              |  12%  |                                                                              |==========                                                            |  14%  |                                                                              |===========                                                           |  16%  |                                                                              |============                                                          |  18%  |                                                                              |==============                                                        |  20%  |                                                                              |===============                                                       |  22%  |                                                                              |================                                                      |  24%  |                                                                              |==================                                                    |  25%  |                                                                              |===================                                                   |  27%  |                                                                              |=====================                                                 |  29%  |                                                                              |======================                                                |  31%  |                                                                              |=======================                                               |  33%  |                                                                              |=========================                                             |  35%  |                                                                              |==========================                                            |  37%  |                                                                              |===========================                                           |  39%  |                                                                              |=============================                                         |  41%  |                                                                              |==============================                                        |  43%  |                                                                              |================================                                      |  45%  |                                                                              |=================================                                     |  47%  |                                                                              |==================================                                    |  49%  |                                                                              |====================================                                  |  51%  |                                                                              |=====================================                                 |  53%  |                                                                              |======================================                                |  55%  |                                                                              |========================================                              |  57%  |                                                                              |=========================================                             |  59%  |                                                                              |===========================================                           |  61%  |                                                                              |============================================                          |  63%  |                                                                              |=============================================                         |  65%  |                                                                              |===============================================                       |  67%  |                                                                              |================================================                      |  69%  |                                                                              |=================================================                     |  71%  |                                                                              |===================================================                   |  73%  |                                                                              |====================================================                  |  75%  |                                                                              |======================================================                |  76%  |                                                                              |=======================================================               |  78%  |                                                                              |========================================================              |  80%  |                                                                              |==========================================================            |  82%  |                                                                              |===========================================================           |  84%  |                                                                              |============================================================          |  86%  |                                                                              |==============================================================        |  88%  |                                                                              |===============================================================       |  90%  |                                                                              |=================================================================     |  92%  |                                                                              |==================================================================    |  94%  |                                                                              |===================================================================   |  96%  |                                                                              |===================================================================== |  98%  |                                                                              |======================================================================| 100%
