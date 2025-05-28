@@ -61,7 +61,31 @@
         "parsable"
       ]
     },
-
+    {
+      "dataset": "merit-hydro",
+      "dataset-dir": "/work/comphyd_lab/data/geospatial-data/MERIT-Hydro",
+      "variable": "elv",
+      "start-date": "",
+      "end-date": "",
+      "output-dir": "/home/kasra.keshavarz1/github-repos/bow-river-at-banff/bb-model/attributes/elevation",
+      "lat-lims": "",
+      "lon-lims": "",
+      "shape-file": "/home/kasra.keshavarz1/github-repos/bow-river-at-banff/1-geofabric/bow-at-banff-geofabric/bb_subbasins.shp",
+      "print-geotiff": "true",
+      "stat": [
+        "mean"
+      ],
+      "quantile": "",
+      "prefix": "bb_model_",
+      "email": "kasra.keshavarz1@ucalgary.ca",
+      "cluster": "/home/kasra.keshavarz1/github-repos/gistool/etc/clusters/ucalgary-arc.json",
+      "fid": "COMID",
+      "_flags": [
+        "include-na",
+        "submit-job",
+        "parsable"
+      ]
+    },
     {
       "dataset": "soil_class",
       "dataset-dir": "/work/comphyd_lab/data/geospatial-data/soil_classes",
