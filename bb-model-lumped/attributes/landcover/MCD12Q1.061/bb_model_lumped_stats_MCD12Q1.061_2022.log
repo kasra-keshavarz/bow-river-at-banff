@@ -1,0 +1,123 @@
+[1] "/home/kasra.keshavarz1/.temp_data_jobid/cache-35181390/r-packages"
+The following package(s) will be updated:
+
+# CRAN -----------------------------------------------------------------------
+- class           [* -> 7.3-23]
+- classInt        [* -> 0.4-11]
+- cli             [* -> 3.6.3]
+- DBI             [* -> 1.2.3]
+- dplyr           [* -> 1.1.4]
+- e1071           [* -> 1.7-16]
+- exactextractr   [* -> 0.10.0]
+- fansi           [* -> 1.0.6]
+- generics        [* -> 0.1.3]
+- glue            [* -> 1.8.0]
+- KernSmooth      [* -> 2.23-26]
+- lattice         [* -> 0.22-6]
+- lifecycle       [* -> 1.0.4]
+- magrittr        [* -> 2.0.3]
+- MASS            [* -> 7.3-64]
+- pillar          [* -> 1.10.1]
+- pkgconfig       [* -> 2.0.3]
+- proxy           [* -> 0.4-27]
+- purrr           [* -> 1.0.4]
+- R6              [* -> 2.5.1]
+- raster          [* -> 3.6-31]
+- Rcpp            [* -> 1.0.14]
+- rlang           [* -> 1.1.5]
+- s2              [* -> 1.1.7]
+- sf              [* -> 1.0-19]
+- sp              [* -> 2.2-0]
+- terra           [* -> 1.8-21]
+- tibble          [* -> 3.2.1]
+- tidyselect      [* -> 1.2.1]
+- units           [* -> 0.8-5]
+- utf8            [* -> 1.2.4]
+- vctrs           [* -> 0.6.5]
+- withr           [* -> 3.0.2]
+- wk              [* -> 0.9.4]
+
+# Installing packages --------------------------------------------------------
+- Installing DBI ...                            OK [copied from cache in 0.3s]
+- Installing KernSmooth ...                     OK [copied from cache in 0.22s]
+- Installing MASS ...                           OK [copied from cache in 0.41s]
+- Installing R6 ...                             OK [copied from cache in 0.26s]
+- Installing Rcpp ...                           OK [copied from cache in 13s]
+- Installing class ...                          OK [copied from cache in 1.2s]
+- Installing proxy ...                          OK [copied from cache in 0.7s]
+- Installing e1071 ...                          OK [copied from cache in 1.3s]
+- Installing classInt ...                       OK [copied from cache in 1.1s]
+- Installing cli ...                            OK [copied from cache in 1.7s]
+- Installing generics ...                       OK [copied from cache in 0.11s]
+- Installing glue ...                           OK [copied from cache in 2.9s]
+- Installing rlang ...                          OK [copied from cache in 1.0s]
+- Installing lifecycle ...                      OK [copied from cache in 1.7s]
+- Installing magrittr ...                       OK [copied from cache in 0.81s]
+- Installing utf8 ...                           OK [copied from cache in 0.64s]
+- Installing vctrs ...                          OK [copied from cache in 4.1s]
+- Installing pillar ...                         OK [copied from cache in 1.4s]
+- Installing fansi ...                          OK [copied from cache in 0.67s]
+- Installing pkgconfig ...                      OK [copied from cache in 1.3s]
+- Installing tibble ...                         OK [copied from cache in 1.8s]
+- Installing withr ...                          OK [copied from cache in 0.56s]
+- Installing tidyselect ...                     OK [copied from cache in 0.46s]
+- Installing dplyr ...                          OK [copied from cache in 1.0s]
+- Installing terra ...                          OK [copied from cache in 2.5s]
+- Installing lattice ...                        OK [copied from cache in 3.1s]
+- Installing sp ...                             OK [copied from cache in 4.3s]
+- Installing raster ...                         OK [copied from cache in 0.94s]
+- Installing wk ...                             OK [copied from cache in 0.92s]
+- Installing s2 ...                             OK [copied from cache in 1.8s]
+- Installing units ...                          OK [copied from cache in 1.6s]
+- Installing sf ...                             OK [copied from cache in 4.1s]
+- Installing exactextractr ...                  OK [copied from cache in 0.72s]
+- Installing purrr ...                          OK [copied from cache in 0.78s]
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+code for methods in class “Rcpp_SpatCategories” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatCategories” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatDataFrame” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatDataFrame” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatFactor” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatFactor” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatMessages” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatMessages” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatOptions” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatOptions” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRaster” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRaster” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterStack” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatRasterStack” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatSRS” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatSRS” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatTime_v” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatTime_v” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVector” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVector” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorCollection” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorProxy” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpatVectorProxy” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpExtent” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPoly” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPoly” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolyPart” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolyPart” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolygons” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+code for methods in class “Rcpp_SpPolygons” was not checked for suspicious field assignments (recommended package ‘codetools’ not available?)
+[1] "Transforming EPSG to 4326"
+[1] "Including NA values"
